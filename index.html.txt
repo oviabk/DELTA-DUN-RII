@@ -3,7 +3,7 @@
 	<head>
 		<title>Istoric delta dunarii</title>
 	</head>
-	<body style = "background-image : url('https://romaniasalbatica.ro/medias/2017/02/15/Delta%20Dunarii29.jpg')"
+	<body style = "background-image : url('https://romaniasalbatica.ro/medias/2017/02/15/Delta%20Dunarii29.jpg')">
 		<h1><i>ISTORIA DELTEI DUNĂRII</i></h1>
 		<h2>EPOCA BIZANTINĂ</h2>
 		<P><i>In perioada bizantina cea mai mare parte din Dobrogea (Scythia Minor), inclusiv Delta, facea parte din „Thema Paristrion”. Traficul comercial-navigabil intens si conditiile naturale din delta au favorizat dezvoltarea unor asezari urbane.
